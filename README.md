@@ -130,7 +130,7 @@ This ensures:
 ### ✅ Using Original Values (mag, depth)
 
 <p align="center">
-  <img src="assets/original_plot.png" width="600"/>
+  <img src="./assests/original_plot.png" width="600"/>
 </p>
 
 **Benefits:**
