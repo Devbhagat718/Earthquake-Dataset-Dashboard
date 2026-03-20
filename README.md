@@ -117,7 +117,7 @@ This ensures:
 ### ❌ Using Standardized Values (magInt, depthInt)
 
 <p align="center">
-  <img src="assets/standardized_plot.png" width="600"/>
+  <img src="./assests/standardized_plot.png" width="600"/>
 </p>
 
 **Issues:**
