@@ -112,6 +112,34 @@ This ensures:
 
 ---
 
+## 📊 Visualization Comparison
+
+### ❌ Using Standardized Values (magInt, depthInt)
+
+<p align="center">
+  <img src="assets/standardized_plot.png" width="600"/>
+</p>
+
+**Issues:**
+- Data points collapse into fixed levels  
+- Overlapping and straight-line patterns  
+- Poor real-world representation  
+
+---
+
+### ✅ Using Original Values (mag, depth)
+
+<p align="center">
+  <img src="assets/original_plot.png" width="600"/>
+</p>
+
+**Benefits:**
+- Natural spread of data  
+- Accurate visualization  
+- Better readability  
+
+---
+
 ## 🎛️ Features
 
 ### 📈 Scatter Plot
